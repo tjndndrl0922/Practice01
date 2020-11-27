@@ -17,5 +17,6 @@ public class Ex08 {
 		// byte n = 1000; byte 함수 같은 경우에는 -128~127까지의 숫자만 표현 가능하므로 short 또는 int 또는 long을 사용.
 		
 		short n = 1000;
+		
 	}
 }
